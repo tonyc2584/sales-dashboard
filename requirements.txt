@@ -1,0 +1,10 @@
+pandas
+plotly
+streamlit
+scikit-learn
+folium
+openpyxl
+python-dotenv
+streamlit-folium
+geopy
+bcrypt
