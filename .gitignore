@@ -1,0 +1,32 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Data and database files
+users.db
+geocode_cache_postcode.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+*.env
+
+# VSCode settings
+.vscode/
+
+# Docker
+*.log
+
+# Python virtual environments
+venv/
+.env/
+
+# Misc
+*.bak
+*.swp
